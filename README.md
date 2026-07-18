@@ -35,4 +35,4 @@ Krishi Setu is an AI-powered smart agriculture platform designed to support farm
 
 ## 🌱 Vision
 
-Krishi Setu aims to bridge the gap between modern AI technology and agriculture by providing farmers with an accessible, reliable, and intelligent crop health monitoring solution that promotes sustainable farming and improves agricultural productivity.
+Krishi Setu aims to bridge the gap between modern AI technology and agriculture by providing farmers with an accessible, reliable, and intelligent crop health monitoring solution that promotes sustainable farming and improves agricultural productivity. By leveraging deep learning, it empowers farmers to identify diseases early, optimize resource usage, and secure their yields with confidence.
